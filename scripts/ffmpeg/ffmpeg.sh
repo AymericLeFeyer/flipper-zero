@@ -1,5 +1,7 @@
 #!/bin/bash
 
+screen -S ffmpeg
+
 DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/1175800716623888464/Wetnb5U6UTmwgJAiTEIkkOmAcTzveTi7gav1AzHwOpLuvh172urS1T1pgr5QFtzsSl-Q"
 DISCORD="/tmp/discord.png"
 ###############

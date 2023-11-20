@@ -1,0 +1,9 @@
+ID 1234:5678 Apple:Keyboard
+
+REM     Title: Quit Terminal
+REM     Author: AymericLeFeyer
+REM     Description: This payload is used to close terminal
+REM     Target: UNIX
+
+GUI Q
+ENTER
