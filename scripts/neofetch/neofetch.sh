@@ -1,8 +1,6 @@
 #!/bin/bash
 
 DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/1175800716623888464/Wetnb5U6UTmwgJAiTEIkkOmAcTzveTi7gav1AzHwOpLuvh172urS1T1pgr5QFtzsSl-Q"
-DISCORD_ICON_OVERRIDE="https://i.imgur.com/KorF8zC.png"
-DISCORD_NAME_OVERRIDE="Neofetch"
 DISCORD="/tmp/discord.txt"
 ###############
 rm -rf "${DISCORD}" && touch "${DISCORD}"
