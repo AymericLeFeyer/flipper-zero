@@ -13,5 +13,5 @@ STRING terminal
 DELAY 500
 ENTER
 DELAY 500
-STRING curl https://raw.githubusercontent.com/AymericLeFeyer/flipper-zero/main/neofetch.sh | bash
+STRING curl https://raw.githubusercontent.com/AymericLeFeyer/flipper-zero/main/scripts/neofetch/neofetch.sh | bash
 ENTER
